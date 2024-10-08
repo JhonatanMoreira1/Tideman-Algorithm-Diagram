@@ -13,7 +13,7 @@ This repository was created **for educational and personal reference purposes on
 
 - **`tideman.c`**: Source code of the Tideman algorithm implementation in C.
 - **`tideman-algorithm-design-diagram.png`**: Image illustrating the flow and interaction of the Tideman algorithm functions.
-- **`tideman-algorithm-design-diagram.excalidraw`**: Editable diagram file created with [Excalidraw](https://excalidraw.com/), useful for future modifications.
+- **`tideman-diagram-archive.excalidraw`**: Editable diagram file created with [Excalidraw](https://excalidraw.com/), useful for future modifications.
 - **`tideman`**: Compiled executable file of the `tideman.c` source code.
 
 ## Algorithm Design Diagram
