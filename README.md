@@ -52,7 +52,3 @@ This project is part of the CS50x curriculum and was created as a practical exer
 
 ## Usage Warning
 This repository should not be used for cheating or violating the academic policies of any educational institutions. If you are currently taking the CS50x or any other course, we recommend solving the problems independently before consulting the code presented here.
-
-## License
-
-This project is distributed under the MIT license. See the `LICENSE` file for more details.
