@@ -1,4 +1,3 @@
-```markdown
 # Tideman Algorithm Visualization
 
 ## Description
@@ -57,5 +56,3 @@ This repository should not be used for cheating or violating the academic polici
 ## License
 
 This project is distributed under the MIT license. See the `LICENSE` file for more details.
-
----
